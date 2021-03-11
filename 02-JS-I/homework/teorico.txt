@@ -1,0 +1,11 @@
+Explicaciones teoricas
+
+    * Variables: es una forma de almacenar un elemento que va a ser utilizado mas tarde una o multiples veces, al mismo tiempo que se le asigna o se lo relaciona con otro valor o característica.
+
+	* Strings: es un bloque de texto. Puede ser un conjunto de letras, signos, numeros, etc. Será un string siempre y cuando ese bloque de texto este contenido entre comillas dobles o simples.
+
+	* Funciones (argumentos, `return`): una función es un conjunto de instrucciones que se agrupan para realizar una tarea concreta y una vez creada, se puede invocar muchas veces para utilizarla. Puede contener o no argumentos, es decir, que se le puede agregar información extra para que la función tenga en cuenta y pueda funcionar mas espeficamente. Puede contener declaraciones 'return' para cuando quiero que esa función me devuelva un resultado de algo de la información que analiza.
+
+	* Declaraciones `if`: son operadores de control de flujo y comparación. Se utiliza para que nuestra función verifique si algo de la informacíon ingresada en la función es verdadera o no, y a partir de esa conclusión, poder dar instrucciones de cómo quiero que proceda.
+
+	* Valores booleanos (`true`, `false`): es un tipo de dato lógico que representa valores de lógica binaria, es decir, 2 valores posibles. Los valores posibles de un dato booleano en JS son 'true' o 'false'.
