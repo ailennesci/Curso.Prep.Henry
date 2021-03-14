@@ -1,0 +1,6 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`:  es una forma de realizar bucles, es decir, de evaluar expresiones de manera repetitiva hasta encontrar lo que le pedimos que busque o hasta que se detiene al llegar a cierto resultado. Todo esto, segun los parametros o condiciones que hayamos establecidos al momento de escribirla. Su sintaxis tiene tres partes: una variable sobre la que se repetira el bucle, una expresion condicional y la expresión que indica como tiene que incrementarse la variable.
+* `&&`: es un operador logico que significa Y (AND). Devuelve verdadero solamente, si ambas expresiones a comparar son verdaderas. Devuelve falso si una (o ambas) expresiones son falsas.
+* `||`: es un operador logico que significa Ó (OR). Devuelve verdadero si una (o ambas) expresiones son verdaderas. Devuelve falso si ambas expresiones son falsas.
+* `!`:  es un operador logico que significa NOT (NO). Se utiliza para negar, indicar contrario o establecer desigualdad.
